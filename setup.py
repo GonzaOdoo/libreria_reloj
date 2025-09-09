@@ -2,14 +2,14 @@
 from setuptools import setup
 
 setup(
-    name='pyzk',
+    name='libreria_prueba_reloj',
     version='0.9.1',
     description='an unofficial library of zksoftware fingerprint device',
-    url='https://github.com/fananimi/pyzk',
-    author='Fanani M. Ihsan',
-    author_email='fanani.mi@gmail.com',
+    url='https://github.com/',
+    author='',
+    author_email='',
     license='LICENSE.txt',
-    packages=['zk'],
+    packages=['libreria_prueba_reloj'],
     keywords=[
         'zk',
         'pyzk',
